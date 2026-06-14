@@ -30,7 +30,6 @@ GDAM(그담)은 아동의 HTP(House-Tree-Person) 그림 검사와 PDI(Post Drawi
 ### 🖼 HTP Drawing Test
 - 집, 나무, 사람 그림 업로드
 - YOLO 기반 객체 탐지
-- OpenCV 기반 시각 특징 추출
 - 그림 요소의 위치, 크기, 비율 등 분석
 
 ### 💬 PDI Interview
